@@ -37,8 +37,6 @@ Goals
 ### Why a User‑Friendly Design Matters
 A clear, accessible interface reduces friction and errors, improves trust, and increases conversion rates. In a booking context, users must quickly compare options, understand pricing and availability, and complete payment confidently—small usability improvements can significantly impact bookings and customer satisfaction.
 
----
-
 ## 2) More UI/UX Design Planning (Figma Exploration)
 > Use your Figma file to validate tokens and specs. Document the design properties below to keep the build consistent with the mockups.
 
@@ -61,7 +59,6 @@ A clear, accessible interface reduces friction and errors, improves trust, and i
 - Quality: Early alignment prevents visual drift from the mockups and improves accessibility (contrast, size, spacing).
 
 ## 3) Project Roles and Responsibilities
-Describe who does what to avoid gaps or overlaps. Example roles:
 
 - **Project Manager**: Oversees timeline and deliverables, coordinates with stakeholders, tracks risks and scope.
 - **Product Owner**: Defines requirements, prioritizes features, manages the backlog, represents user needs.
@@ -75,11 +72,11 @@ Describe who does what to avoid gaps or overlaps. Example roles:
 ## 4) UI Component Patterns
 Planned reusable components (document props and states as you build):
 
-Navbar
+**Navbar**
   - Logo, search bar, user navigation (sign in/up, profile), responsive menu.
-Property Card
+**Property Card**
   - Property image, price/night, location, rating, favorite button; responsive layout and skeleton loading.
-Footer
+**Footer**
   - Site links, company info, social links, copyright.
 
 
